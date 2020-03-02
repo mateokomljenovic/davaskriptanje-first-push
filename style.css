@@ -1,0 +1,15 @@
+* {
+	font-family: 'Open Sans', 'sand-serif';
+}
+
+.div-block {
+	background-color: aquamarine;
+}
+
+.title {
+	border: 0.5em solid rebeccapurple;
+}
+
+.text {
+	border: 0.5em solid rosybrown;
+}
